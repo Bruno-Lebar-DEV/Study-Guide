@@ -51,11 +51,11 @@
 - 📝 1.1 Programming Logic and Computational Mathematics ([See](./01-Fundamentals/1.1-Programming-Logic.md))
 - 📝 1.2 Advanced Algorithms and Data Structures ([See](./01-Fundamentals/1.2-Advanced-Algorithms-DataStructures.md))
 
-#### 📂 2. Programming Paradigms and Languages ([See](./02-Programming-Paradigms/))
+#### 📂 2. Programming Paradigms and Languages ([See](./02-Programming-Paradigms/2-Programming-Paradigms.md))
 - 📝 2.1 Fundamental Programming Paradigms ([See](./02-Programming-Paradigms/2.1-Fundamental-Paradigms.md))
 - 📝 2.2 Programming Languages and Compilers ([See](./02-Programming-Paradigms/2.2-Languages-Compilers.md))
 
-#### 📂 3. Multiplatform Software Development ([See](./03-Software-Development/))
+#### 📂 3. Multiplatform Software Development ([See](./03-Software-Development/3-Software-Development.md))
 - 🌐 3.1 Full-Stack Web Development ([See](./03-Software-Development/3.1-Full-Stack-Web.md))
 - 📱 3.2 Native and Cross-Platform Mobile Development ([See](./03-Software-Development/3.2-Mobile-Development.md))
 - 💻 3.3 Desktop and Embedded Systems ([See](./03-Software-Development/3.3-Desktop-Embedded.md))
