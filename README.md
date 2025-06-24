@@ -47,7 +47,7 @@
 
 ### 🧠 LEVEL 1 - SCIENTIFIC FUNDAMENTALS
 
-#### 📂 1. Programming Fundamentals and Computer Science ([See](./01-Fundamentals/))
+#### 📂 1. Programming Fundamentals and Computer Science ([See](./01-Fundamentals/1-Fundamentals.md))
 - 📝 1.1 Programming Logic and Computational Mathematics ([See](./01-Fundamentals/1.1-Programming-Logic.md))
 - 📝 1.2 Advanced Algorithms and Data Structures ([See](./01-Fundamentals/1.2-Advanced-Algorithms-DataStructures.md))
 
